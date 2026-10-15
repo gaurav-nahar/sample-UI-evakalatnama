@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 640" aria-hidden="true">
+  <!-- Original pencil-style scales of justice. Drawn in grey so it sits faded behind content. -->
+  <g fill="none" stroke="#8f8f8f" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- finial -->
+    <g stroke-width="2.2">
+      <circle cx="150" cy="104" r="11"/>
+      <path d="M150 74 L156 92 L150 93 L144 92 Z"/>
+      <path d="M139 118 h22"/>
+    </g>
+    <g stroke-width="1" opacity=".55">
+      <circle cx="151.5" cy="105" r="10"/>
+      <path d="M144 100 q4 -4 9 -2"/>
+    </g>
+
+    <!-- beam -->
+    <g stroke-width="2.4">
+      <path d="M34 156 Q150 128 266 156"/>
+      <path d="M36 162 Q150 136 264 162"/>
+      <circle cx="34" cy="159" r="4"/>
+      <circle cx="266" cy="159" r="4"/>
+      <circle cx="150" cy="142" r="7"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M40 158 Q150 133 260 158"/>
+      <path d="M70 152 l6 4 M96 147 l6 4 M122 143 l6 4 M172 143 l6 4 M198 147 l6 4 M224 152 l6 4"/>
+    </g>
+
+    <!-- left chains + pan -->
+    <g stroke-width="1.6">
+      <path d="M34 163 L10 338"/>
+      <path d="M34 163 L34 338"/>
+      <path d="M34 163 L58 338"/>
+    </g>
+    <g stroke-width="1" opacity=".5" stroke-dasharray="3 5">
+      <path d="M35 166 L12 336"/>
+      <path d="M35 166 L57 336"/>
+    </g>
+    <g stroke-width="2.4">
+      <path d="M2 338 h64"/>
+      <path d="M2 338 Q34 382 66 338"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M8 342 Q34 374 60 342"/>
+      <path d="M16 350 l8 8 M28 354 l8 8 M40 352 l8 8"/>
+    </g>
+
+    <!-- right chains + pan (sits a little lower: the scales are weighing) -->
+    <g stroke-width="1.6">
+      <path d="M266 163 L242 352"/>
+      <path d="M266 163 L266 352"/>
+      <path d="M266 163 L290 352"/>
+    </g>
+    <g stroke-width="1" opacity=".5" stroke-dasharray="3 5">
+      <path d="M267 166 L244 350"/>
+      <path d="M267 166 L289 350"/>
+    </g>
+    <g stroke-width="2.4">
+      <path d="M234 352 h64"/>
+      <path d="M234 352 Q266 396 298 352"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M240 356 Q266 388 292 356"/>
+      <path d="M248 364 l8 8 M260 368 l8 8 M272 366 l8 8"/>
+    </g>
+
+    <!-- column -->
+    <g stroke-width="2.4">
+      <path d="M143 150 L139 548"/>
+      <path d="M157 150 L161 548"/>
+      <path d="M136 176 h28 M136 186 h28"/>
+      <path d="M133 520 h34 M131 534 h38"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M148 196 L147 512"/>
+      <path d="M152 196 L153 512"/>
+      <path d="M141 230 l4 -6 M141 270 l4 -6 M141 310 l4 -6 M141 350 l4 -6 M141 390 l4 -6 M141 430 l4 -6 M141 470 l4 -6"/>
+      <path d="M155 250 l4 -6 M155 330 l4 -6 M155 410 l4 -6 M155 490 l4 -6"/>
+    </g>
+
+    <!-- closed book on the base -->
+    <g stroke-width="2">
+      <path d="M86 548 h128 v18 h-128 z"/>
+      <path d="M92 552 h116 M92 557 h116 M92 562 h116"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M88 550 h124"/>
+    </g>
+
+    <!-- plinth -->
+    <g stroke-width="2.4">
+      <path d="M70 566 h160 v22 h-160 z"/>
+      <path d="M52 588 h196 v28 h-196 z"/>
+    </g>
+    <g stroke-width="1" opacity=".5">
+      <path d="M56 594 h188"/>
+      <path d="M60 600 l10 10 M80 600 l10 10 M100 600 l10 10 M120 600 l10 10 M140 600 l10 10 M160 600 l10 10 M180 600 l10 10 M200 600 l10 10 M220 600 l10 10"/>
+      <path d="M76 572 l8 8 M96 572 l8 8 M116 572 l8 8 M176 572 l8 8 M196 572 l8 8 M216 572 l8 8"/>
+    </g>
+  </g>
+</svg>
